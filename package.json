@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Miran AL Mehrab",
+	"description": "This is a project for backend api course offered by FCC",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
