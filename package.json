@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Miran AL Mehrab",
 	"description": "This is a project for backend api course offered by FCC",
+	"keywords": ["backend-api-course", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
